@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seunesq. A founder and product leader
-- 👀 I’m interested in 
+- 👀 I’m interested in Fintech, immmigrations and solving ignored problems for underserved communities
 - 🌱 I’m currently learning how to build with LLMs using python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
